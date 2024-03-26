@@ -1,11 +1,11 @@
 {
-    "name": "teitwebsite",
-    "short_name": "teitwebsite",
+    "name": "Teit corporation",
+    "short_name": "Teit corporation",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
-    "description": "A new Flutter project.",
+    "description": "Teit corporation - создаем IT продукты которые подчеркнут вас и вашу компанию.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
